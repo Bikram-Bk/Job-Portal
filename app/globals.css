@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+
+:root {
+  --main-background-color: #a4b6d0; /* lighter smooth slate gray */
+  --background-color: #f9fafb;
+}
+
+body {
+  background-color: var(--main-background-color);
+  color: white;
+}
